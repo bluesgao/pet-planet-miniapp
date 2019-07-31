@@ -1,0 +1,3 @@
+<!--pages/article_detail/article_detail.wxml-->
+<!-- 文章详情页 包含：统计数据（浏览，赞，踩，收藏），文章内容，作者信息，推荐文章 -->
+<text>pages/article_detail/article_detail.wxml</text>
