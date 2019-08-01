@@ -1,5 +1,5 @@
 <!--index.wxml-->
-<!-- 主页 包含：搜索框，热门推荐，公告，文章列表-->
+<!-- 主页 包含：（关注，发现，附近3个页面）搜索框，热门推荐，公告，文章列表-->
 <view class="container">
   <view class="userinfo">
     <button wx:if="{{!hasUserInfo && canIUse}}" open-type="getUserInfo" bindgetuserinfo="getUserInfo"> 获取头像昵称 </button>
